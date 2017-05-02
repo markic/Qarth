@@ -16,7 +16,7 @@ Developed by Marin Markić. No licence. June 2016.
 
 ### In Brief
 - persistance.xml is configured for working with local mysql database
-- unitofwork service is generic mediator towards JPA and JPQL
+- unit of work service is generic mediator towards JPA and JPQL
 - realestate service contains real estate business logic
 - demo contains object printing service and console reading helpers
 - translate terms to your language
